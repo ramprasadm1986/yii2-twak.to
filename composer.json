@@ -1,0 +1,21 @@
+{
+    "name": "ramprasadm1986/yii2-twak.to",
+    "description": "A tawk.to chat widget for Yii2",
+    "type": "yii2-extension",
+    "license": "Apache-2.0",
+    "version": "1.0.1",
+    "authors": [
+        {
+            "name": "Ramprasad Moharana",
+            "email": "ramprasad@krititech.in"
+        }
+    ],
+    "require": {
+     "yiisoft/yii2": "~2.0.0",
+    },
+    "autoload": {
+        "psr-4": {
+            "ramprasadm1986\\twak\\": ""
+        }
+    }
+}
